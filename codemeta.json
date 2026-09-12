@@ -1,7 +1,7 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "Dataset",
-  "name": "Institutional responsibilities and regulatory gaps for cultivated meat in Brazil",
+  "name": "Institutional responsibilities of Anvisa and MAPA and regulatory gaps for cultivated meat in Brazil: a systematized mapping of scientific literature and official documents",
   "description": "Reproducible materials for a systematized mapping of scientific literature and official documents on cultivated-meat regulation in Brazil.",
   "author": {
     "@type": "Person",
