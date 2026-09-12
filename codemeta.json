@@ -1,8 +1,8 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "Dataset",
-  "name": "Competências institucionais e lacunas regulatórias para a carne cultivada no Brasil",
-  "description": "Materiais reprodutíveis para um mapeamento sistematizado da literatura científica e de documentos oficiais sobre a regulação da carne cultivada no Brasil.",
+  "name": "Institutional responsibilities and regulatory gaps for cultivated meat in Brazil",
+  "description": "Reproducible materials for a systematized mapping of scientific literature and official documents on cultivated-meat regulation in Brazil.",
   "author": {
     "@type": "Person",
     "givenName": "Vitória",

@@ -1,17 +1,19 @@
-# Registro de buscas
+# Search log
 
-## Bases científicas
+## Scientific searches — 8 August 2026
 
-| Base | Resultado registrado | Observação |
+| Database | Result recorded | Notes |
 |---|---:|---|
-| Scopus | 10 | Busca por título, resumo e palavras-chave |
-| PubMed/MEDLINE | 2 | String preservada em `docs/search-strings.md` |
-| SciELO | 258 | Sintaxe mista foi a única combinação operacional registrada |
-| Google Scholar | 3.810 totais; 30 examinados | Busca complementar; ordem por relevância |
-| Repositório UFSC | 13 | 3 não eram clippings; nenhum pertinente ao recorte regulatório |
+| Scopus | 10 | Title, abstract, and keyword search |
+| PubMed/MEDLINE | 2 | Exact query preserved in `search-strings.md` |
+| SciELO | 258 | Mixed syntax was the only operational combination recorded |
+| Google Scholar | 3,810 total; 30 examined | Complementary search, sorted by relevance |
+| UFSC Repository | 13 | Three were not press clippings; none addressed the regulatory scope |
 
-## Regras de rastreabilidade
+## Official and legal-document searches — 9–11 August 2026
 
-Para cada atualização, registrar: data e horário, plataforma, string exata, filtros, ordem de resultados, número retornado, número exportado, formato do arquivo, nome do arquivo bruto e responsável pela decisão.
+Official documents were searched in Anvisa, MAPA, and Diário Oficial da União portals without a date restriction. The official-document register records title, number, issuing body, instrument type, publication date, status, permanent link, regulatory stage, supporting excerpt, decision, and source category.
 
-As buscas registradas no material recebido foram realizadas em agosto de 2026. Confirmar as datas exatas antes da submissão final.
+## Traceability requirements
+
+For every update, record the date and time, platform, exact query, filters, result ordering, number returned, number exported, file format, raw-file name, and decision-maker.

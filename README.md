@@ -1,79 +1,74 @@
-# Competências institucionais e lacunas regulatórias para a carne cultivada no Brasil
+# Institutional responsibilities and regulatory gaps for cultivated meat in Brazil
 
-Repositório de materiais reprodutíveis para o mapeamento sistematizado da literatura científica e de documentos oficiais sobre as competências da Anvisa e do MAPA e as lacunas regulatórias aplicáveis à carne cultivada no Brasil.
+Reproducible materials for a systematized mapping of scientific literature and official documents on the responsibilities of Anvisa and MAPA and the regulatory gaps applicable to cultivated meat in Brazil.
 
-> **Status:** versão inicial de organização dos materiais de pesquisa. Os resultados são preliminares e não constituem parecer jurídico.
+> **Status:** preliminary research release. This repository is not a legal opinion.
 
-## Pergunta de pesquisa
+## Research question
 
-Como estão distribuídas as competências entre a Anvisa e o MAPA para a avaliação de segurança, a autorização, o registro, a inspeção, a rotulagem e a comercialização de carne cultivada no Brasil, e quais etapas permanecem sem procedimentos normativos específicos?
+How are responsibilities distributed between Anvisa and MAPA for safety assessment, authorization, registration, inspection, labelling, and commercialization of cultivated meat in Brazil, and which stages lack specific normative procedures?
 
-## Escopo registrado
+## Registered scope and dates
 
-- Literatura científica: sem limite temporal operacional no material atual; idiomas português, inglês e espanhol.
-- Documentos oficiais: sem limite temporal.
-- Bases: Scopus, PubMed/MEDLINE, SciELO e Google Scholar como busca complementar.
-- Contexto: Brasil; estudos comparativos internacionais somente quando incluem o Brasil.
-- Exclusões principais: estudos puramente técnicos, sem componente regulatório, jurídico ou institucional; fontes fora do contexto brasileiro; notícias sem análise substantiva.
+- Scientific literature: Portuguese, English, or Spanish; no operational date restriction in the registered protocol.
+- Official documents: no date restriction.
+- Scientific searches: **8 August 2026**.
+- Official/legal-document searches: **9–11 August 2026**.
+- Databases: Scopus, PubMed/MEDLINE, SciELO, and Google Scholar as a complementary source.
+- Context: Brazil; comparative studies only when Brazil is included.
 
-## Estrutura
+## Repository structure
 
 ```text
 data/
-  raw/          arquivos originais, não versionados por padrão
-  processed/    tabelas derivadas e anonimizadas/prontas para análise
-analysis/       scripts e instruções de análise
-docs/           protocolo, strings, decisões metodológicas e dicionário de dados
-outputs/
-  figures/      fluxograma PRISMA e demais figuras
-  tables/       quadros regulatórios e tabelas para publicação
-src/            funções auxiliares reutilizáveis
+  processed/    derived, publication-oriented CSV registers
+  raw/          original files; ignored by default
+analysis/       reproducible analysis scripts
+docs/           methods, search strings, source taxonomy, and decisions
+outputs/        generated figures and tables
+src/            reusable helper-code area
 ```
 
-## Estado atual da busca e triagem
+## Search and screening counts
 
-| Item | Quantidade |
+| Item | Count |
 |---|---:|
-| Registros Scopus | 10 |
-| Registros PubMed | 2 |
-| Registros SciELO | 258 |
-| Registros Google Scholar examinados | 30 |
-| Total de registros científicos identificados | 300 |
-| Duplicatas removidas | 14 |
-| Registros após deduplicação | 286 |
-| Excluídos na triagem de título/resumo | 255 |
-| Textos completos avaliados | 31 |
-| Excluídos na leitura integral | 28 |
-| Estudos científicos incluídos | 3 |
-| Documentos oficiais inicialmente identificados | 13 |
-| Documentos oficiais incluídos | 11 |
+| Scopus records | 10 |
+| PubMed records | 2 |
+| SciELO records | 258 |
+| Google Scholar records examined | 30 |
+| Scientific records identified | 300 |
+| Duplicates removed | 14 |
+| Records after deduplication | 286 |
+| Excluded at title/abstract screening | 255 |
+| Full texts assessed | 31 |
+| Excluded at full-text eligibility | 28 |
+| Scientific studies included | 3 |
+| Official documents initially identified | 13 |
+| Official documents included | 11 |
 
-Os números acima reproduzem a aba PRISMA do arquivo de trabalho recebido. A diferença entre documentos oficiais identificados e incluídos deve ser mantida explícita no relatório.
+The full screening register, including a specific exclusion reason for every excluded record, is in `data/processed/screening_register.csv`.
 
-## Como reproduzir
+## Reproduction
 
-1. Coloque a planilha de triagem e os exports bibliográficos em `data/raw/`.
-2. Não sobrescreva arquivos brutos; registre cada nova busca em `docs/search-log.md`. Os arquivos brutos atuais permanecem fora do commit até serem revisados para publicação.
-3. Exporte a matriz de extração para CSV UTF-8 em `data/processed/`.
-4. Execute o script em `analysis/01_descriptive_summary.R` em uma instalação recente do R.
-5. Grave tabelas e figuras geradas em `outputs/` e registre a data, versão do software e alterações metodológicas.
+1. Place reviewed raw exports in `data/raw/`; raw `.docx` and `.xlsx` files are ignored by default.
+2. Preserve the exact query and date for every update in `docs/search-log.md`.
+3. Keep derived CSV files UTF-8 encoded.
+4. Run `analysis/01_descriptive_summary.R` with R and the `readr` package.
+5. Record software versions and methodological changes in `docs/decision-log.md`.
 
-Os documentos brutos podem conter dados pessoais, comentários de triagem ou materiais ainda não autorizados para divulgação. Revise-os antes de publicar o repositório e não inclua credenciais, tokens ou arquivos confidenciais.
+## Legal-source taxonomy
 
-## Licenças
+The official-document register separates **current norms**, **historical norms**, **preparatory acts**, **legislative proposals**, and **tertiary sources**. In the supplied workbook, the official-document list contains current and historical norms; no preparatory act or legislative proposal was identified in that list. The GFI Brazil declaration is treated as a tertiary source in the methodology, not as an official norm.
 
-- Código em `analysis/`, `src/` e scripts: MIT (`LICENSE`).
-- Documentação, tabelas e textos de pesquisa: CC BY 4.0 (`LICENSE-DOCS`), salvo indicação contrária da fonte.
-- Normas, decisões judiciais e documentos governamentais permanecem sujeitos às suas próprias condições e não são relicenciados por este projeto.
+See `docs/source-taxonomy.md` for the row-level classification and treatment of each category. Source titles, excerpts, and institutional names remain in their original language where translation would reduce traceability.
 
-## Citação
+## Licences
 
-Consulte `CITATION.cff`. Para uma versão arquivada, publique uma release e conecte o repositório ao Zenodo antes de citar um DOI.
+- Code: MIT (`LICENSE`).
+- Original documentation and research text: CC BY 4.0 (`LICENSE-DOCS`), unless a file states otherwise.
+- Government and third-party documents retain their own terms.
 
-## Limitações e próximos controles de qualidade
+## Citation and publication
 
-- Confirmar datas, vigência, links permanentes e redação dos dispositivos diretamente nas fontes oficiais.
-- Separar claramente norma vigente, norma histórica, ato preparatório, proposição legislativa e fonte terciária.
-- Registrar motivo específico para cada exclusão em texto completo.
-- Verificar a consistência entre o log de buscas, a planilha de triagem, a matriz de extração e o fluxograma PRISMA.
-- Submeter a versão final à revisão da orientadora antes da publicação.
+See `CITATION.cff`. Before publishing a release, replace repository-specific metadata, verify official links and legal status, and review raw materials for personal data, advisor comments, and other unpublished content.

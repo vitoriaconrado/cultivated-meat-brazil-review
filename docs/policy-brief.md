@@ -1,62 +1,62 @@
 ---
-title: "Carne cultivada no Brasil: responsabilidades institucionais e lacunas regulatórias"
-subtitle: "Nota de política baseada em um mapeamento sistematizado preliminar"
-author: "Vitória Teresa — Universidade Federal de Santa Catarina"
-date: "12 de setembro de 2026"
+title: "Cultivated meat in Brazil: institutional responsibilities and regulatory gaps"
+subtitle: "Policy brief based on a preliminary systematized mapping"
+author: "Vitória Teresa — Federal University of Santa Catarina"
+date: "12 September 2026"
 ---
 
-## Mensagem principal
+## Key message
 
-O marco brasileiro já oferece uma rota regulatória parcial para produtos de carne cultivada, mas não uma rota completa e específica. A **Anvisa** aparece como a autoridade central para avaliação de segurança e autorização de uso de novos alimentos e novos ingredientes, com base na RDC nº 839/2023. O **MAPA** possui competências gerais para produtos de origem animal, registro, inspeção e rotulagem, mas o mapeamento não localizou um procedimento específico que resolva de modo explícito o enquadramento de produtos obtidos por cultura celular. A rotulagem é uma área de possível sobreposição entre os dois órgãos; a comercialização permanece sem procedimento específico identificado.
+Brazil has a partial regulatory route for cultivated-meat products, but not a complete, product-specific pathway. **Anvisa** is the central authority for safety assessment and authorization of use for novel foods and novel ingredients under RDC No. 839/2023. **MAPA** has general responsibilities for animal-origin products, registration, inspection, and labelling, but the mapping did not identify a specific procedure that explicitly resolves how cell-cultured products fit that framework. Labelling is an area of potential overlap; no specific commercialization procedure was identified.
 
-## O que foi analisado
+## Evidence mapped
 
-O estudo organizou literatura científica e documentos oficiais sobre seis etapas: avaliação de segurança, autorização, registro, inspeção, rotulagem e comercialização.
+The study organized scientific literature and official documents around six stages: safety assessment, authorization, registration, inspection, labelling, and commercialization.
 
-| Componente | Resultado registrado |
+| Component | Recorded result |
 |---|---:|
-| Registros científicos identificados | 300 |
-| Duplicatas removidas | 14 |
-| Textos completos avaliados | 31 |
-| Estudos científicos incluídos | 3 |
-| Documentos oficiais inicialmente identificados | 13 |
-| Documentos oficiais incluídos | 11 |
+| Scientific records identified | 300 |
+| Duplicates removed | 14 |
+| Full texts assessed | 31 |
+| Scientific studies included | 3 |
+| Official documents initially identified | 13 |
+| Official documents included | 11 |
 
-As buscas abrangeram Scopus, PubMed/MEDLINE, SciELO e Google Scholar como fonte complementar. Documentos oficiais foram procurados nos portais da Anvisa, do MAPA e do Diário Oficial da União, sem limite temporal.
+Scientific searches were conducted on 8 August 2026. Official and legal-document searches were conducted between 9 and 11 August 2026. Searches covered Scopus, PubMed/MEDLINE, SciELO, Google Scholar as a complementary source, Anvisa, MAPA, and the Diário Oficial da União.
 
-## Mapa regulatório preliminar
+## Preliminary regulatory map
 
-| Etapa | Leitura do material analisado | Lacuna ou risco de incerteza |
+| Stage | Reading of the mapped material | Gap or uncertainty |
 |---|---|---|
-| Avaliação de segurança | Anvisa; RDC nº 839/2023 | A rota geral para novos alimentos está identificada, mas a aplicação a cada produto celular exigirá avaliação documental e científica caso a caso. |
-| Autorização de uso | Anvisa; RDC nº 839/2023 | Não foi localizada uma rota alternativa específica para carne cultivada. |
-| Registro | MAPA, em sua competência geral | Não está claro se e como o produto se enquadra como produto de origem animal para fins de registro. |
-| Inspeção | MAPA/SIF/DIPOA, segundo o marco geral do RIISPOA | O enquadramento de uma unidade e de um produto de tecnologia celular não está operacionalmente definido no material analisado. |
-| Rotulagem | Regras gerais da Anvisa e do MAPA | Não há regra específica identificada para nomenclatura e características próprias da carne cultivada. |
-| Comercialização | Nenhum procedimento específico localizado | Falta uma descrição integrada do caminho entre autorização, registro, inspeção, rotulagem e acesso ao mercado. |
+| Safety assessment | Anvisa; RDC No. 839/2023 | The general novel-food route is identified, but each cell-based product will require case-specific scientific and documentary assessment. |
+| Use authorization | Anvisa; RDC No. 839/2023 | No alternative cultivated-meat-specific route was identified. |
+| Product registration | MAPA under its general competence | It is unclear whether and how the product fits the animal-origin product category for registration. |
+| Inspection | MAPA/SIF/DIPOA under the general RIISPOA framework | The operational classification of a cell-culture facility and product is not defined in the mapped material. |
+| Labelling | General Anvisa and MAPA rules | No specific rule was identified for cultivated-meat nomenclature and distinctive characteristics. |
+| Commercialization | No specific procedure located | The pathway linking authorization, registration, inspection, labelling, and market access is not described as an integrated process. |
 
-## Por que isso importa
+## Why this matters
 
-Incerteza regulatória pode aumentar o custo e o tempo de desenvolvimento, dificultar a orientação de pesquisadores e empresas e gerar interpretações divergentes entre órgãos. Ao mesmo tempo, uma regra específica precisa preservar avaliação de segurança baseada em evidências, transparência para consumidores e capacidade de fiscalização. A ausência de uma norma específica não deve ser interpretada automaticamente como proibição nem como autorização.
+Regulatory uncertainty may increase development costs and timelines, make it harder for researchers and companies to obtain guidance, and produce divergent interpretations between agencies. A specific framework should preserve evidence-based safety assessment, consumer transparency, and enforceability. The absence of a specific rule should not automatically be read as either prohibition or authorization.
 
-## Opções de ação
+## Policy options
 
-**1. Publicar uma orientação interinstitucional.** Anvisa e MAPA poderiam descrever, de forma não vinculante ou progressivamente vinculante, o ponto de entrada, os documentos exigidos, a sequência de análise e a autoridade responsável em cada etapa.
+**1. Publish joint interagency guidance.** Anvisa and MAPA could describe the entry point, required documents, review sequence, and responsible authority for each stage.
 
-**2. Definir o enquadramento do produto e da unidade.** Uma norma ou ato interpretativo deveria esclarecer quando o produto se enquadra no regime de alimentos, de produtos de origem animal ou em uma combinação de regimes, incluindo a inspeção da unidade produtiva.
+**2. Define product and facility classification.** A rule or interpretive act should clarify when a product falls under food, animal-origin product, or combined regimes, including inspection of the production facility.
 
-**3. Criar requisitos de rotulagem e nomenclatura.** A orientação deve distinguir identidade do produto, informação nutricional, método de produção e alegações, evitando indução ao erro e deixando explícito o que é obrigatório, permitido ou proibido.
+**3. Establish labelling and nomenclature requirements.** Guidance should distinguish product identity, nutrition information, production method, and claims, making mandatory, permitted, and prohibited information explicit.
 
-**4. Estabelecer coordenação para pós-autorização.** Vigilância, rastreabilidade, recolhimento, mudanças de processo e comunicação de eventos adversos devem ter responsáveis e canais definidos.
+**4. Establish post-authorization coordination.** Surveillance, traceability, recalls, process changes, and adverse-event communication should have defined responsibilities and channels.
 
-**5. Manter consulta pública e revisão periódica.** A regulação deve incorporar evidências novas sem dispensar a verificação independente de segurança e a participação de consumidores, academia, setor produtivo e órgãos de defesa do consumidor.
+**5. Maintain public consultation and periodic review.** Regulation should incorporate new evidence while preserving independent safety review and participation by consumers, academia, industry, and consumer-protection bodies.
 
-## Recomendação prioritária
+## Priority recommendation
 
-Antes de exigir uma lei setorial abrangente, publicar um **roteiro regulatório conjunto Anvisa–MAPA**, com matriz de responsabilidades e procedimento para consulta prévia de proponentes. Esse roteiro reduziria a incerteza imediatamente e produziria a base empírica para decidir quais pontos exigem norma específica, alteração legislativa ou apenas coordenação administrativa.
+Before requiring a comprehensive sector-specific statute, publish a **joint Anvisa–MAPA regulatory roadmap** with a responsibility matrix and a pre-submission consultation procedure. This would reduce immediate uncertainty and provide an evidence base for deciding which issues require a specific rule, legislative change, or administrative coordination.
 
-## Nota de evidência
+## Evidence note
 
-Esta nota resume um mapeamento preliminar e não substitui a leitura autenticada das normas, a atualização de sua vigência nem parecer jurídico. A versão final deve verificar os dispositivos diretamente nas fontes oficiais, atualizar a situação normativa na data de publicação e explicar os dois documentos oficiais identificados que não foram incluídos na síntese.
+This brief summarizes a preliminary mapping and is not a legal opinion. The final version should verify provisions directly against official sources, update normative status at the publication date, and explain the two initially identified official documents that were not included in the synthesis.
 
-**Fontes centrais do mapeamento:** RDC nº 839/2023; Decreto nº 9.013/2017 (RIISPOA); Decreto nº 12.642/2025; IN MAPA nº 22/2005; RDC nº 727/2022; RDC nº 429/2020; IN nº 75/2020; e materiais de busca e triagem arquivados neste repositório.
+**Core mapped sources:** RDC No. 839/2023; Decree No. 9.013/2017 (RIISPOA); Decree No. 12.642/2025; MAPA IN No. 22/2005; RDC No. 727/2022; RDC No. 429/2020; IN No. 75/2020; and the search and screening materials archived in this repository.
