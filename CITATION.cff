@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Competências institucionais e lacunas regulatórias para a carne cultivada no Brasil"
+message: "If you use this repository, please cite the archived release DOI and the associated study."
+type: dataset
+authors:
+  - family-names: "Teresa"
+    given-names: "Vitória"
+    affiliation: "Universidade Federal de Santa Catarina"
+version: "0.1.0"
+date-released: "2026-09-12"
+license: "MIT AND CC-BY-4.0"
+keywords:
+  - cultivated meat
+  - cellular agriculture
+  - Brazil
+  - Anvisa
+  - MAPA
+  - systematic mapping

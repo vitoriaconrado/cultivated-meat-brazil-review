@@ -1,0 +1,22 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "Dataset",
+  "name": "Competências institucionais e lacunas regulatórias para a carne cultivada no Brasil",
+  "description": "Materiais reprodutíveis para um mapeamento sistematizado da literatura científica e de documentos oficiais sobre a regulação da carne cultivada no Brasil.",
+  "author": {
+    "@type": "Person",
+    "givenName": "Vitória",
+    "familyName": "Teresa",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Universidade Federal de Santa Catarina"
+    }
+  },
+  "dateCreated": "2026-09-12",
+  "version": "0.1.0",
+  "license": [
+    "https://spdx.org/licenses/MIT.html",
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "keywords": ["cultivated meat", "cellular agriculture", "Brazil", "Anvisa", "MAPA"]
+}
