@@ -2,7 +2,7 @@
 
 **A public, reproducible research project on the regulatory responsibilities of Anvisa and MAPA.**
 
-This repository maps how Brazil's food-safety and agricultural authorities may share responsibility for cultivated meat—from safety assessment and authorization to registration, inspection, labelling, and commercialization. It also identifies stages where a specific normative procedure may still be unclear or absent.
+This repository maps how Brazil's food-safety and agricultural authorities may share responsibility for cultivated meat - from safety assessment and authorization to registration, inspection, labelling, and commercialization. It also identifies stages where a specific normative procedure may still be unclear or absent.
 
 > **Research status:** preliminary release. This project is for research and public understanding, not legal advice.
 
