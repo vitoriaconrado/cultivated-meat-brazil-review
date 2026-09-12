@@ -1,13 +1,13 @@
-# Log de decisões metodológicas
+# Decision log
 
-As decisões abaixo foram transcritas do material de trabalho recebido:
+The following decisions were recorded in the supplied workbook:
 
-| Decisão | Justificativa registrada |
+| Decision | Recorded rationale |
 |---|---|
-| Google Scholar como base complementar | Resultados menos reprodutíveis |
-| Escopo temporal aberto | Normas anteriores podem fundamentar competências atuais; produção científica é escassa |
-| Strings pré-definidas por base | Limitações específicas das plataformas |
-| SciELO com sintaxe mista | Única combinação funcional registrada |
-| Resultados transferidos para Zotero e Rayyan | Facilitar deduplicação e triagem |
+| Google Scholar used as a complementary source | Results are less reproducible |
+| Scientific and legal searches not restricted to a date range | Older norms may support current competencies; scientific production is scarce |
+| Preliminary database-specific search strings defined | Platform limitations required explicit strings |
+| Mixed quoted/unquoted SciELO syntax retained | It was the only functional syntax recorded |
+| Results transferred to Zotero and Rayyan | To support deduplication and screening |
 
-Revisões futuras devem acrescentar data, responsável, versão dos dados afetados e impacto no PRISMA.
+Future changes must add date, decision-maker, affected data version, and PRISMA impact.

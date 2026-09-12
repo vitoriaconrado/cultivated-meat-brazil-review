@@ -1,0 +1,6 @@
+* text=auto
+*.csv text working-tree-encoding=UTF-8
+*.md text working-tree-encoding=UTF-8
+*.cff text working-tree-encoding=UTF-8
+*.json text working-tree-encoding=UTF-8
+*.R text working-tree-encoding=UTF-8

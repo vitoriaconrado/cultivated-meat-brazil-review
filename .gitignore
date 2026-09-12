@@ -1,0 +1,13 @@
+data/raw/*
+!data/raw/.gitkeep
+*.docx
+*.xlsx
+*.pdf
+.Rhistory
+.Rproj.user/
+renv/library/
+renv/staging/
+outputs/figures/*
+outputs/tables/*
+!outputs/figures/.gitkeep
+!outputs/tables/.gitkeep

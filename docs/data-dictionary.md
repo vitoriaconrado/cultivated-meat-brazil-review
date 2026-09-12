@@ -1,15 +1,17 @@
-# Dicionário de dados
+# Data dictionary
 
-| Campo | Descrição |
+## `screening_register.csv`
+
+| Field | Description |
 |---|---|
-| `source` | Norma, documento ou conjunto de fontes analisado |
-| `type_of_source` | Tipo da fonte |
-| `competent_body` | Órgão ou estrutura cuja competência é indicada |
-| `normative_status` | Vigência ou natureza do documento |
-| `regulatory_stage` | Etapa regulatória analisada |
-| `indicated_competence` | Quem a fonte indica como responsável |
-| `requirement_defined` | Se há requisito/procedimento identificável |
-| `gap_identified` | Lacuna, ambiguidade ou sobreposição observada |
-| `evidence` | Artigo, página, trecho ou local de sustentação |
+| `record_id` | Stable row identifier derived from workbook order |
+| `title`, `authors`, `year`, `database`, `doi`, `language` | Bibliographic fields preserved from the workbook |
+| `duplicate` | Whether the workbook marked the record as a duplicate |
+| `decision_stage` | Title/abstract screening or full-text eligibility |
+| `decision` | Included or excluded |
+| `exclusion_reason` | Specific reason recorded for an excluded record |
+| `notes` | Additional workbook notes |
 
-As categorias devem ser mantidas estáveis entre atualizações. Qualquer recodificação deve ser registrada no log de decisões.
+## `official_documents.csv`
+
+The file preserves the workbook’s official-document fields and adds `source_category`, which separates current norms from historical norms and reserves explicit categories for preparatory acts, legislative proposals, and tertiary sources.
